@@ -1,4 +1,8 @@
-{
+{ 
+
+
+
+  
   "version": "0.2.0",
   "configurations": [
     {
@@ -8,8 +12,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "d:/SimpleCaculator",
       "program": "d:/SimpleCaculator/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/Admin/Documents/GitHub/simpleCaculator",
+      "program": "c:/Users/Admin/Documents/GitHub/simpleCaculator/build/Debug/outDebug",
+>>>>>>> 3b056383d0673f62120786d2bb8cfbb90b951835
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
