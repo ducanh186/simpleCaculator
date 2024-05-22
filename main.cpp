@@ -11,7 +11,7 @@ int main(){
                uint8_t option;
                cout <<"Select option [1-3]:";
                cin >> option;
-               cout <<"Option is:";
+               cout <<"Option is: ";
                switch(1){
                    case 1:
                        cout <<"Basic Calculation"<<endl;
