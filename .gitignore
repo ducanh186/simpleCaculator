@@ -1,3 +1,4 @@
-main.exe
-.vscode
-.gitignore
+*main.exe
+.vscode/
+.gitignore/
+output/

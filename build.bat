@@ -1,1 +1,0 @@
-C:\msys64\ucrt64\bin\g++.exe -Wall -Wextra -g3 -Wcast-qual -finline-functions -Os -O3 -Wformat -Wconversion d:\SimpleCaculator\main.cpp -o d:\SimpleCaculator\output\main.exe 
