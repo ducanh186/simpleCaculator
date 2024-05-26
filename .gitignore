@@ -1,4 +1,5 @@
 *main.exe
 .vscode/
-*.gitignore
+.gitignore/
 output/ 
+*test.cpp
