@@ -1,5 +1,5 @@
-*main.exe
+*.exe
 .vscode/
 .gitignore/
 output/ 
-*test.cpp
+test.cpp
